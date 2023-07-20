@@ -15,7 +15,7 @@ spec:
         app: example1
     spec:
       containers:
-      - image: nginx:latest
+      - image: quay.io/csatyam142/nginx-app:latest
         name: nginx
         ports:
         - containerPort: 80
