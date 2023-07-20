@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  nginx-app:
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2023-07-20T08:24:10.255243563Z"
+    description: A Helm chart for Kubernetes
+    digest: bfff4141a5daef51b005ca5b56304188cd8cf5b36bdd25f17f7811e4d94241c9
+    name: nginx-app
+    type: application
+    urls:
+    - https://taylor-red-1989.github.io/nginx-app/nginx-app-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-07-20T08:24:10.253444594Z"
